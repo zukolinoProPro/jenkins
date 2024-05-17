@@ -1,5 +1,5 @@
 class HolaMundo {
   public static void main(String[] args){
-    System.out.printIn("Hola a todos!");
+    System.out.println("Hola a todos!");
   }
 }
